@@ -1,6 +1,6 @@
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Waziri Ally
 <div id="badges" align="center">
+  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Waziri Ally
   <a href="https://www.linkedin.com/in/waziri-ally-71608021a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BFVaOU1TSTdOWQy0S7WGjdQ%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -11,7 +11,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <img src="https://img.shields.io/badge/-Website-brightgreen?logoColor=white&style=for-the-badge" alt="my website"/>
   </a>
 </div>
-===================================================================================================================================
 
 Full Stack Developer
 --------------------
