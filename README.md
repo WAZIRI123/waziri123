@@ -6,7 +6,7 @@
    <a href="https://twitter.com/waziri_dev">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://waziri.vercel.app">
+  <a href="https://waziri123.github.io/waziri-personal-website">
     <img src="https://img.shields.io/badge/-Website-brightgreen?logoColor=white&style=for-the-badge" alt="my website"/>
   </a>
 </div>
